@@ -1,0 +1,7 @@
+.card_body {
+  transition: all 300ms;
+  margin-bottom: 1rem;
+}
+.card_body:hover {
+  box-shadow: 1rem 3rem 3rem -0.5rem;
+}

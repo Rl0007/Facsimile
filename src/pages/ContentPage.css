@@ -1,0 +1,27 @@
+.ContentPage {
+  background-color: #6c464f;
+}
+.CardContainer {
+  display: flex;
+  margin-top: 5rem;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.header_container {
+  display: flex;
+  padding-top: 2rem;
+  flex-direction: row;
+}
+.upload_button {
+  border: 0cm;
+  color: black;
+  font-size: medium;
+}
+.upload_button:hover {
+  color: #000;
+  font-size: large;
+  background-color: white;
+  border-color: #5b288e;
+}
